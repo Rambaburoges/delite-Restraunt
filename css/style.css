@@ -1,7 +1,8 @@
 body {
   font-family: "Lobster", cursive;
   color: #c9c1ac;
-  background: url("/images/background-pic.JPG") center/cover, no-repeat, fixed;
+  background: url("/images/background-pic.jpg") center/cover, no-repeat,
+    fixed;
 }
 .info {
   background: #c9c1ac;
