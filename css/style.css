@@ -1,8 +1,7 @@
 body {
   font-family: "Lobster", cursive;
   color: #c9c1ac;
-  background: url("/images/background-pic.jpg") center/cover, no-repeat,
-    fixed;
+  background: url("../images/background-pic.jpg") center/cover, no-repeat, fixed;
 }
 .info {
   background: #c9c1ac;
@@ -23,7 +22,7 @@ body {
 #header {
   min-height: calc(100vh - 94px);
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/images/banner-bcg.jpg");
+    url("../images/banner-bcg.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
